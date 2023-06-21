@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: ca3feb84fefb5445988b4bc016af1532
+  - enabled: 1
+    path: Assets/Scenes/Exoplanet.unity
+    guid: 5120fc40d2b95402da6aadb2df121bec
+  - enabled: 1
+    path: Assets/Scenes/Alien World.unity
+    guid: 79dd87209d65f48019bb94786b576585
+  - enabled: 1
+    path: Assets/Scenes/Andromeda.unity
+    guid: e41ced0316f70434b98c0ea4ee3f0c26
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: baa7d2ca8ecc9493c96ef270ed7df74a, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c30f4bf0bfd3249f89f0d6168044f2c3, type: 2}
